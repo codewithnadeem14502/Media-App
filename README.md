@@ -1,4 +1,39 @@
-# Welcome to your Expo app 👋
+# Welcome to your Media App 👋
+
+
+# Screen Preview
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>Login Screen</b><br>
+        <img src="https://github.com/codewithnadeem14502/SocialApp/assets/105824474/37e0234a-602a-4ae7-a3b4-b35301bb2788" alt="Main Screen" width="300" />
+      </td>
+      <td align="center">
+        <b>Main Screen</b><br>
+        <img src="https://github.com/codewithnadeem14502/Media-App/assets/105824474/cd6bdf38-88b6-47b6-8bdf-b577649f26b1" alt="Details Screen" width="300" />
+      </td>
+           <td align="center">
+        <b>Profile Screen</b><br>
+        <img src="https://github.com/codewithnadeem14502/Media-App/assets/105824474/b03341a0-64c4-4dce-a646-1e25502d103b" alt="Main Screen" width="300" />
+      </td>
+      <td align="center">
+        <b>Search Screen</b><br>
+        <img src="https://github.com/codewithnadeem14502/Media-App/assets/105824474/54dd3012-13a2-4c20-9d3d-31fc527deb64" alt="Details Screen" width="300" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+## Demo App Video
+
+https://github.com/codewithnadeem14502/Media-App/assets/105824474/1bd49f49-9eac-4c9a-963c-4ed1b66734d8
+
+
+
+
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
